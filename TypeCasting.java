@@ -15,8 +15,8 @@ public class TypeCasting {
 	i =(int) l;
 	System.out.println(l);
 	System.out.println(i);
-	//int can be copies in long but not vice versa
-	//this will bw true in each case
+	//int can be copied in long but not vice versa
+	//this will be true in each case
 
 	double d = i;
 	//i=d;
