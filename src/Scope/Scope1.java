@@ -28,6 +28,7 @@ public class Scope1 {
 
 	}
 }
-//Use only after declaration
-//No two variables with same name can coexist
-//Scope of variable is linited to surrounding block
+//RULES-:
+//1. Use only after declaration
+//2. No two variables with same name can coexist
+//3. Scope of variable is linited to surrounding block
