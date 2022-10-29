@@ -28,5 +28,4 @@ public class TypeCasting {
 	
 	int j =100;
 	}
-
 }
