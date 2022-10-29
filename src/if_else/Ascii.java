@@ -21,8 +21,5 @@ public class Ascii {
         {
              System.out.print("-1");
         }
-      
-         
-
     }
 }
