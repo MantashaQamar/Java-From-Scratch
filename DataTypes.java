@@ -25,5 +25,4 @@ public class DataTypes {
 	
 	int j =100;
 	}
-
 }
