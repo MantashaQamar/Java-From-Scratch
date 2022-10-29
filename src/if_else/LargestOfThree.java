@@ -22,5 +22,5 @@ public class LargestOfThree {
 	}else {
 		System.out.println(c);
 	}
-    }
+    } 
 }
